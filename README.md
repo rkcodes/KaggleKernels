@@ -1,1 +1,1 @@
-Placeholder for all KaggleKernels and Notebooks
+Placeholder for all KaggleKernels and Jupyter Notebooks
